@@ -1,4 +1,5 @@
 # YouTube Video Performance Analysis
+<img width="796" height="400" alt="85c9323b-5fd1-49ae-a902-dd41c41b88ba" src="https://github.com/user-attachments/assets/075cd32c-b243-4dcd-9fc7-2b70200ba8e9" />
 
 ## Objective
 The goal of this notebook is to perform a comprehensive analysis of YouTube video performance. We will examine various factors contributing to virality, viewer engagement, and content strategy. Additionally, we will build machine learning models to predict video performance and classify videos based on their success metrics.
@@ -441,8 +442,10 @@ plt.show()
 ```
 
 
+<img width="851" height="559" alt="README_10_0" src="https://github.com/user-attachments/assets/3b4b44eb-41fa-4090-acce-9cb797afd209" />
     
-![png](README_files/README_10_0.png)
+
+
     
 
 
@@ -461,7 +464,8 @@ plt.show()
 
 
     
-![png](README_files/README_12_0.png)
+<img width="980" height="869" alt="README_12_0" src="https://github.com/user-attachments/assets/ff60f5a7-60d5-4b97-9545-59e6e322b549" />
+
     
 
 
@@ -484,7 +488,8 @@ plt.show()
 
 
     
-![png](README_files/README_14_0.png)
+<img width="859" height="559" alt="README_14_0" src="https://github.com/user-attachments/assets/4d213826-b61f-4946-8f53-16196c244abe" />
+
     
 
 
@@ -506,7 +511,8 @@ plt.show()
 
 
     
-![png](README_files/README_16_0.png)
+<img width="841" height="556" alt="README_16_0" src="https://github.com/user-attachments/assets/64d800d9-0ad5-48c7-9b6a-13eacad6affb" />
+
     
 
 
@@ -532,7 +538,8 @@ plt.show()
 
 
     
-![png](README_files/README_19_0.png)
+<img width="865" height="559" alt="README_19_0" src="https://github.com/user-attachments/assets/b17c4e7b-fc29-4752-b2b9-2bce9668d6a0" />
+
     
 
 
@@ -587,7 +594,8 @@ plt.show()
 
 
     
-![png](README_files/README_22_1.png)
+<img width="811" height="479" alt="README_22_1" src="https://github.com/user-attachments/assets/61c06ba4-61a7-4474-a2db-033f135c2f33" />
+
     
 
 
@@ -628,7 +636,8 @@ plt.show()
 
 
     
-![png](README_files/README_25_1.png)
+<img width="715" height="479" alt="README_25_1" src="https://github.com/user-attachments/assets/5bb4ec04-24fd-4d69-ba0b-ce7d9838a16b" />
+
     
 
 
@@ -690,8 +699,8 @@ plt.show()
     
 
 
-    
-![png](README_files/README_28_1.png)
+<img width="518" height="479" alt="README_28_1" src="https://github.com/user-attachments/assets/cdea1490-36b9-405a-91c5-ba48f88a1935" />
+
     
 
 
