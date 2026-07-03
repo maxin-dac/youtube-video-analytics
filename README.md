@@ -32,4 +32,4 @@ Based on the empirical findings from the model, three core strategic axes are re
 ---
 *To explore the detailed code, statistical visualizations, and model evaluation metrics, feel free to download the notebook file on this repo, or check out my Kaggle: https://www.kaggle.com/code/maximendacleu/youtube-video-analytics.*
 
-***By: MAxime NDACLEU | BI & Data Analyst***
+***By: Maxime NDACLEU | BI & Data Analyst***
