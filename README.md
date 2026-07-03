@@ -28,7 +28,7 @@ Each row represents a single YouTube video and includes:
 ## Key Insights & Feature Importance
 * **Duration is Critical:** Viral videos are significantly shorter (average **215 seconds / 3:35**) compared to non-viral videos (average **over 1 hour 20 minutes**). Shorter, high-impact formats perform much better.
 * **Engagement Rate:** Non-viral videos actually show a higher engagement rate (**2.93%**) than viral ones (**1.76%**). This is common in viral content, where a large number of passive viewers dilutes the ratio.
-* **Publish Timing:** Videos published during peak hours tend to gain more interaction. The picks were observed successively at 7am, 6am, 10am, 8pm and 12pm.
+* **Publish Timing:** Videos published during peak hours tend to gain more interaction. The peaks were observed successively at 7am, 6am, 10am, 8pm and 12pm.
 * **Viral Threshold:** A video is considered viral if it exceeds **85.9 million views** (**top 5% of the dataset**).
 
 ## Model Performance
