@@ -5,31 +5,16 @@
 The goal of this notebook is to perform a comprehensive analysis of YouTube video performance. We will examine various factors contributing to virality, viewer engagement, and content strategy. Additionally, we will build machine learning models to predict video performance and classify videos based on their success metrics.
 
 ## Dataset
-The analysis uses `/kaggle/input/youtube-analytics-data/youtube_recommendation_dataset -.csv`, which contains metrics such as view count, like count, comment count, duration, and publication time.
+From Kaggle: https://www.kaggle.com/datasets/shaistashahid/youtube-analytics-data?select=youtube_recommendation_dataset+-.csv
 
+Each row represents a single YouTube video and includes:
+- Video metadata
+- Channel information
+- User engagement metrics
+- Video category and duration details
+- Computed ratios (engagement rate, likes/views, comments/views)
+- Video age and publication characteristics
 
-```python
-# Importing the necessary libraries
-import warnings
-warnings.filterwarnings('ignore')
-warnings.simplefilter(action='ignore', category=FutureWarning)
-warnings.simplefilter(action='ignore', category=RuntimeWarning)
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import re
-from datetime import datetime
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
-from sklearn.metrics import mean_squared_error, r2_score, classification_report, confusion_matrix
-from sklearn.preprocessing import LabelEncoder
-
-# Set visualization style
-sns.set_theme(style="whitegrid")
-plt.rcParams['figure.figsize'] = (12, 6)
-```
 
 ## 1. Data Loading and Preprocessing
 
@@ -714,3 +699,6 @@ Based on the analysis, here are some strategic recommendations:
 2.  **Best Time to Post**: Refer to the 'Average Views by Publish Hour' plot. Schedule videos during peak viewing hours.
 3.  **Category Focus**: Identify categories with the highest average views and engagement to target high-potential niches.
 4.  **Engagement Drivers**: Focus on increasing likes and comments, as they are strongly correlated with views.
+
+# By: Maxime NDACLEU
+# BI Analyst & Data Analyst
