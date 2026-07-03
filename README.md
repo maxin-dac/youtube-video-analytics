@@ -30,6 +30,6 @@ Based on the empirical findings from the model, three core strategic axes are re
 * **Engagement Engineering:** Implement targeted Calls-to-Action (CTAs) early in the video timeline to aggressively drive up the comment-to-view ratio.
 
 ---
-*To explore the detailed code, statistical visualizations, and model evaluation metrics, feel free to download the notebook file on this repo, or check out my Kaggle: https://www.kaggle.com/code/maximendacleu/youtube-video-analytics.*
+*To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: https://www.kaggle.com/code/maximendacleu/youtube-video-analytics.*
 
 ***By: Maxime NDACLEU | BI & Data Analyst***
