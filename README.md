@@ -700,5 +700,4 @@ Based on the analysis, here are some strategic recommendations:
 3.  **Category Focus**: Identify categories with the highest average views and engagement to target high-potential niches.
 4.  **Engagement Drivers**: Focus on increasing likes and comments, as they are strongly correlated with views.
 
-# By: Maxime NDACLEU
-# BI Analyst & Data Analyst
+## By: Maxime NDACLEU | BI Analyst & Data Analyst
