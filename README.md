@@ -32,7 +32,7 @@ Each row represents a single YouTube video and includes:
 * **Viral Threshold:** A video is considered viral if it exceeds **85.9 million views** (**top 5% of the dataset**).
 
 ## Model Performance
-The Random Forest classifier achieved **74% accuracy** in predicting high-performance videos. It is better at identifying non-viral content (83% recall) than viral hits (62% recall), indicating room for improvement in detecting breakout success.
+The Random Forest classifier achieved **74% accuracy** in predicting high-performance videos. It is better at identifying non-viral content (83% recall) than viral hits (62% recall).
 
 ## Content Strategy & Optimization
 Based on the analysis, the following recommendations can help creators maximize video performance:
@@ -44,8 +44,8 @@ Based on the analysis, the following recommendations can help creators maximize 
 
 ## Tech Stack & Libraries
 * **Language:** Python
-* **Data Manipulation:** pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn
+* **Data Manipulation:** `pandas`, `NumPy`
+* **Visualization:** `Matplotlib`, `Seaborn`
 * **Machine Learning:** `scikit-learn` (`RandomForestClassifier`, `train_test_split`, `classification_report`, `confusion_matrix`)
 * **Environment:** Kaggle Notebook
 
