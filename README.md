@@ -1,14 +1,15 @@
 # YouTube Video Performance Analysis
 <img width="796" height="400" alt="85c9323b-5fd1-49ae-a902-dd41c41b88ba" src="https://github.com/user-attachments/assets/075cd32c-b243-4dcd-9fc7-2b70200ba8e9" />
 
+## Context
+- From Kaggle: [https://www.kaggle.com/datasets/shaistashahid/youtube-analytics-data]
+- Dataset: youtube_recommendation_dataset -.csv
+
 ## Objective
 This project delivers a rigorous data-driven approach to understanding YouTube video performance dynamics and predicting content virality using Machine Learning. The main objectives are:
 * **Exploration:** Analyze engagement distributions (Views, Likes, Comments) to isolate performance drivers.
 * **Prediction:** Train a classification model to forecast content virality with a high level of accuracy (Global Accuracy: **74%**).
 * **Action:** Extract actionable insights to build an optimized, data-backed content strategy.
-
-## Dataset
-From Kaggle: https://www.kaggle.com/datasets/shaistashahid/youtube-analytics-data?select=youtube_recommendation_dataset+-.csv
 
 Each row represents a single YouTube video and includes:
 - Video metadata
