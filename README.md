@@ -44,11 +44,16 @@ Based on the analysis, the following recommendations can help creators maximize 
 * **Monitor Virality Signals:** Use the classification model to evaluate new video ideas based on duration, expected engagement, and timing.
 
 ## Tech Stack & Libraries
-* **Language:** Python
-* **Data Manipulation:** `pandas`, `NumPy`
-* **Visualization:** `Matplotlib`, `Seaborn`
-* **Machine Learning:** `scikit-learn` (`RandomForestClassifier`, `train_test_split`, `classification_report`, `confusion_matrix`)
-* **Environment:** Kaggle Notebook
+
+* **Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+* **Data Manipulation:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+* **Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-5B8DB8?style=flat)
+
+* **Machine Learning:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) (`RandomForestClassifier`, `train_test_split`, `classification_report`, `confusion_matrix`)
+
+* **Environment:** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 ---
 *To explore the detailed code, feel free to download the notebook file on this repo, or check out my [Kaggle](https://www.kaggle.com/code/maximendacleu/youtube-video-analytics).*
