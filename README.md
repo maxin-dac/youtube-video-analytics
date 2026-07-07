@@ -2,7 +2,7 @@
 <img width="796" height="400" alt="85c9323b-5fd1-49ae-a902-dd41c41b88ba" src="https://github.com/user-attachments/assets/075cd32c-b243-4dcd-9fc7-2b70200ba8e9" />
 
 ## Context
-- From Kaggle: [https://www.kaggle.com/datasets/shaistashahid/youtube-analytics-data]
+- From [Kaggle](https://www.kaggle.com/datasets/shaistashahid/youtube-analytics-data)
 - Dataset: youtube_recommendation_dataset -.csv
 
 ## Objective
@@ -51,6 +51,4 @@ Based on the analysis, the following recommendations can help creators maximize 
 * **Environment:** Kaggle Notebook
 
 ---
-*To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: https://www.kaggle.com/code/maximendacleu/youtube-video-analytics.*
-
-***By: Maxime NDACLEU | BI & Data Analyst***
+*To explore the detailed code, feel free to download the notebook file on this repo, or check out my [Kaggle](https://www.kaggle.com/code/maximendacleu/youtube-video-analytics).*
