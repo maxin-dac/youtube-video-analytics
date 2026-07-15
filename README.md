@@ -96,5 +96,5 @@ We built and evaluated a `RandomForestClassifier` to predict "High Performance" 
 ## Resources & Links
 
 * **Kaggle Notebook:** [View the code on Kaggle](https://www.kaggle.com/code/maximendacleu/youtube-video-analytics)
-* **Local Notebook:** [Download `youtube-content-analytics.ipynb`](./youtube-content-analytics.ipynb)
-* **Project PDF Report:** [Download Notebook PDF](./youtube-video-analytics.pdf)
+* **Local Notebook**
+* **Project PDF report in this repo.**
